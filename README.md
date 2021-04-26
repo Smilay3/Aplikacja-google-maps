@@ -1,7 +1,7 @@
-android-google-maps-demo
+Aplikacja Google Maps
 ========================
 
-Prosta aplikacja Google Maps Android API v2 Demo. Ta aplikacja pomaga nam sprawdzić, czy mamy prawidłowo skonfigurowane usługi odtwarzania w naszym emulatorze.
+Prosta aplikacja Google Maps. Ta aplikacja pomaga nam sprawdzić, czy mamy prawidłowo skonfigurowane usługi odtwarzania w naszym emulatorze.
 
 Google Maps API pomaga nam umieścić mapę w naszej aplikacji na Androida. Może mieć różne typy map, takie jak teren, satelita i inne. Dodanie tych funkcji na mapie pomaga nam dodawać fajne funkcje do naszej aplikacji i sprawić,
 że nasza aplikacja będzie mogła wskazywać miejsca, do których chce dotrzeć użytkownik tej aplikacji.
